@@ -4,7 +4,7 @@ This repo is just a list of links for [my freeCodeCamp](https://www.freecodecamp
 
 You can find below the links of repos and demos for the projects I finished:
 
-## Front End Projects
+## <p align="center">🔥 Front End Projects 🔥</p>
 
 ### Basic Front End Dev Projects
 
@@ -20,12 +20,12 @@ You can find below the links of repos and demos for the projects I finished:
 
 ### Advanced Front End Dev Projects
 
-- [x] [repo](https://github.com/zsoltime/react-calculator) [demo](https://zsolti.co/react/calculator) [fcc](https://www.freecodecamp.org/challenges/build-a-javascript-calculator) Build a JavaScript Calculator
+- [x] [repo](https://github.com/zsoltime/react-calculator) [demo](https://zsolti.co/react/calculator) [fcc](https://www.freecodecamp.org/challenges/build-a-javascript-calculator) Build a JavaScript Calculator (Using React.js)
 - [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock) Build a Pomodoro Clock
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game) Build a Tic Tac Toe Game
+- [x] [repo](https://github.com/zsoltime/vue-tic-tac-toe) [demo](https://zsolti.co/vue/tic-tac-toe/) [fcc](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game) Build a Tic Tac Toe Game (Using Vue.js)
 - [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-simon-game) Build a Simon Game
 
-## Data Visualization Projects
+## <p align="center">🔥 Data Visualization Projects 🔥</p>
 
 ### React Projects
 - [x] [repo](https://github.com/zsoltime/react-markdown-previewer) [demo](https://zsolti.co/fcc/markdown/) [fcc](https://www.freecodecamp.org/challenges/build-a-markdown-previewer) Build a Markdown Previewer
@@ -42,7 +42,7 @@ You can find below the links of repos and demos for the projects I finished:
 - [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/show-national-contiguity-with-a-force-directed-graph) Show National Contiguity with a Force Directed Graph
 - [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/map-data-across-the-globe) Map Data Across the Globe
 
-## Back End Projects
+## <p align="center">🔥 Back End Projects 🔥</p>
 
 ### API Projects
 
