@@ -36,11 +36,11 @@ You can find below the links of repos and demos for the projects I finished:
 
 ### D3 Projects
 
-- [x] [repo](https://github.com/zsoltime/d3-bar-chart) [demo]() [fcc](https://www.freecodecamp.org/challenges/visualize-data-with-a-bar-chart) Visualize Data with a Bar Chart
-- [x] [repo](https://github.com/zsoltime/d3-scatterplot-graph) [demo]() [fcc](https://www.freecodecamp.org/challenges/visualize-data-with-a-scatterplot-graph) Visualize Data with a Scatterplot Graph
-- [x] [repo](https://github.com/zsoltime/d3-heat-map) [demo]() [fcc](https://www.freecodecamp.org/challenges/visualize-data-with-a-heat-map) Visualize Data with a Heat Map
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/show-national-contiguity-with-a-force-directed-graph) Show National Contiguity with a Force Directed Graph
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/map-data-across-the-globe) Map Data Across the Globe
+- [x] [repo](https://github.com/zsoltime/d3-bar-chart) [demo](https://zsolti.co/fcc/bar-chart/) [fcc](https://www.freecodecamp.org/challenges/visualize-data-with-a-bar-chart) Visualize Data with a Bar Chart
+- [x] [repo](https://github.com/zsoltime/d3-scatterplot-graph) [demo](https://zsolti.co/fcc/scatterplot-graph/) [fcc](https://www.freecodecamp.org/challenges/visualize-data-with-a-scatterplot-graph) Visualize Data with a Scatterplot Graph
+- [x] [repo](https://github.com/zsoltime/d3-heat-map) [demo](https://zsolti.co/fcc/heat-map/) [fcc](https://www.freecodecamp.org/challenges/visualize-data-with-a-heat-map) Visualize Data with a Heat Map
+- [x] [repo](https://github.com/zsoltime/d3-force-directed-graph) [demo](https://zsolti.co/fcc/force-directed/) [fcc](https://www.freecodecamp.org/challenges/show-national-contiguity-with-a-force-directed-graph) Show National Contiguity with a Force Directed Graph
+- [x] [repo](https://github.com/zsoltime/d3-map-data) [demo](https://zsolti.co/fcc/map/) [fcc](https://www.freecodecamp.org/challenges/map-data-across-the-globe) Map Data Across the Globe
 
 ## <p align="center">🔥 Back End Projects 🔥</p>
 
