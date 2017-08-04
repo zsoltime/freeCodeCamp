@@ -46,11 +46,11 @@ You can find below the links of repos and demos for the projects I finished:
 
 ### API Projects
 
-- [x] [repo](https://github.com/zsoltime/fcc-timestamp) [demo](http://fcc-api-ts.herokuapp.com/) [fcc](https://www.freecodecamp.org/challenges/timestamp-microservice) Timestamp Microservice
+- [x] [repo](https://github.com/zsoltime/fcc-timestamp) [demo](https://fcc-api-ts.herokuapp.com/) [fcc](https://www.freecodecamp.org/challenges/timestamp-microservice) Timestamp Microservice
 - [x] [repo](https://github.com/zsoltime/fcc-request-header) [demo](https://fcc-api-hr.herokuapp.com/) [fcc](https://www.freecodecamp.org/challenges/request-header-parser-microservice) Request Header Parser Microservice
 - [x] [repo](https://github.com/zsoltime/url-shortener) [demo](https://sty.herokuapp.com/) [fcc](https://www.freecodecamp.org/challenges/url-shortener-microservice) URL Shortener Microservice
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/image-search-abstraction-layer) Image Search Abstraction Layer
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/file-metadata-microservice) File Metadata Microservice
+- [x] [repo](https://github.com/zsoltime/image-search-api) [demo](https://fcc-api-is.herokuapp.com/) [fcc](https://www.freecodecamp.org/challenges/image-search-abstraction-layer) Image Search Abstraction Layer
+- [x] [repo](https://github.com/zsoltime/file-metadata) [demo](https://fcc-fm.herokuapp.com/) [fcc](https://www.freecodecamp.org/challenges/file-metadata-microservice) File Metadata Microservice
 
 ### Dynamic Web Application Projects
 
