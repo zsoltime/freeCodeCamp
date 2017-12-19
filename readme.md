@@ -1,8 +1,10 @@
 # WIP freeCodeCamp Challenges
 
-This repo is just a list of links for [my freeCodeCamp](https://www.freecodecamp.com/zsoltime) journey.
+This repo is just a list of links for [my freeCodeCamp](https://www.freecodecamp.com/zsoltime) journey. You can find below the links of repos and demos for the projects I finished:
 
-You can find below the links of repos and demos for the projects I finished:
+## <p align="center">🔥 Algorithm Scripting 🔥</p>
+
+You can find my solutions for freeCodeCamp's algorithm challenges [here](https://github.com/zsoltime/freeCodeCamp-algorithms).
 
 ## <p align="center">🔥 Front End Projects 🔥</p>
 
@@ -13,26 +15,26 @@ You can find below the links of repos and demos for the projects I finished:
 
 ### Intermediate Front End Dev Projects
 
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-random-quote-machine) Build a Random Quote Machine
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/show-the-local-weather) Show the Local Weather 
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer) Build a Wikipedia Viewer
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api) Use the Twitch.tv JSON API
+- [ ] [repo]() [demo](https://zsolti.co/fcc/quotes/) [fcc](https://www.freecodecamp.org/challenges/build-a-random-quote-machine) Build a Random Quote Machine
+- [ ] [repo]() [demo](https://zsolti.co/fcc/weather/) [fcc](https://www.freecodecamp.org/challenges/show-the-local-weather) Show the Local Weather 
+- [x] [repo](https://github.com/zsoltime/react-wiki-viewer) [demo](https://zsolti.co/fcc/wiki/) [fcc](https://www.freecodecamp.org/challenges/build-a-wikipedia-viewer) Build a Wikipedia Viewer (Using React.js)
+- [ ] [repo]() [demo](https://zsolti.co/fcc/twitch/) [fcc](https://www.freecodecamp.org/challenges/use-the-twitchtv-json-api) Use the Twitch.tv JSON API
 
 ### Advanced Front End Dev Projects
 
 - [x] [repo](https://github.com/zsoltime/react-calculator) [demo](https://zsolti.co/react/calculator) [fcc](https://www.freecodecamp.org/challenges/build-a-javascript-calculator) Build a JavaScript Calculator (Using React.js)
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock) Build a Pomodoro Clock
-- [x] [repo](https://github.com/zsoltime/vue-tic-tac-toe) [demo](https://zsolti.co/vue/tic-tac-toe/) [fcc](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game) Build a Tic Tac Toe Game (Using Vue.js)
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-simon-game) Build a Simon Game
+- [ ] [repo](https://github.com/zsoltime/react-pomodoro) [demo](https://zsolti.co/fcc/pomodoro/) [fcc](https://www.freecodecamp.org/challenges/build-a-pomodoro-clock) Build a Pomodoro Clock (Using React.js)
+- [x] [repo](https://github.com/zsoltime/vue-tic-tac-toe) [demo](https://zsolti.co/fcc/tic-tac-toe/) [fcc](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game) Build a Tic Tac Toe Game (Using Vue.js)
+- [ ] [repo]() [demo](https://zsolti.co/fcc/simon/) [fcc](https://www.freecodecamp.org/challenges/build-a-simon-game) Build a Simon Game
 
 ## <p align="center">🔥 Data Visualization Projects 🔥</p>
 
 ### React Projects
 - [x] [repo](https://github.com/zsoltime/react-markdown-previewer) [demo](https://zsolti.co/fcc/markdown/) [fcc](https://www.freecodecamp.org/challenges/build-a-markdown-previewer) Build a Markdown Previewer
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-camper-leaderboard) Build a Camper Leaderboard
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-recipe-box) Build a Recipe Box
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-the-game-of-life) Build the Game of Life
-- [ ] [repo]() [demo]() [fcc](https://www.freecodecamp.org/challenges/build-a-roguelike-dungeon-crawler-game) Build a Roguelike Dungeon Crawler Game
+- [x] [repo](https://github.com/zsoltime/react-markdown-previewer) [demo](https://zsolti.co/fcc/leaderboard/) [fcc](https://www.freecodecamp.org/challenges/build-a-camper-leaderboard) Build a Camper Leaderboard
+- [x] [repo](https://github.com/zsoltime/react-recipe-box) [demo](https://zsolti.co/fcc/recipes/) [fcc](https://www.freecodecamp.org/challenges/build-a-recipe-box) Build a Recipe Box
+- [ ] [repo](https://github.com/zsoltime/react-game-of-life) [demo](https://zsolti.co/fcc/gol/) [fcc](https://www.freecodecamp.org/challenges/build-the-game-of-life) Build the Game of Life
+- [ ] [repo](https://github.com/zsoltime/react-dungeon-crawler) [demo](https://zsolti.co/fcc/dungeon-crawler/) [fcc](https://www.freecodecamp.org/challenges/build-a-roguelike-dungeon-crawler-game) Build a Roguelike Dungeon Crawler Game
 
 ### D3 Projects
 
